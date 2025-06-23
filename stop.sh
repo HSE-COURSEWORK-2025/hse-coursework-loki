@@ -1,0 +1,1 @@
+helm uninstall loki --namespace hse-coursework-health
